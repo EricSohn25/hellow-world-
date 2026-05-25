@@ -1,3 +1,20 @@
 Cloud computing is the delivery of computing services over the internet. 
 
-Shared Responsibility
+Shared Responsibility varies between IaaS, PaaS & SaaS.
+
+What always stays with you: 
+1. Information and data stored in the cloud 
+2. Devices that are allowed to connect to your cloud 
+3. Accounts and identities of people, services, devices within your environment
+
+What the provider always owns:
+1. Physical datacenter
+2. Physical network
+3. physical hosts
+
+What depends on Service Type:
+1. Operating System
+2. Network Controls
+3. Application
+4. Identity and Access
+5. Infrastructure 
