@@ -1,0 +1,11 @@
+CIA Triad
+Confidentiality: Who is allowed to access
+Integrity: Prove the authenticity of data
+Availability: Readiness 
+
+AAA
+Authentication: Proving one’s identity
+Authorization: Which access is allowed
+Accounting: Logs
+Gap Analysis - Where we are vs Where we want to be 
+Zero Trust
