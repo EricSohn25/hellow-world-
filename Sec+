@@ -8,4 +8,8 @@ Authentication: Proving one’s identity
 Authorization: Which access is allowed
 Accounting: Logs
 Gap Analysis - Where we are vs Where we want to be 
-Zero Trust
+Zero Trust - MFA, Least Priv. 
+Block Chain - Common Ledger, hashing of transactions, sharing the transactions & ledger with all users
+Certificates - CA Authority, Certificate Revocation List (CRL)
+Threat Actors - Unskilled, Hacktivists, Nation States, Organized Crime, Shadow IT, Insider 
+Threat Vector - method used by attacker to access your system 
