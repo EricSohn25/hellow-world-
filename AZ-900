@@ -29,3 +29,10 @@ Benefits of Cloud computing:
 4. Availability & Scalability 
 
 
+Azure resources & resource groups
+Rules: one group at a time, no nesting or renaming, cascading actions
+
+*Important facts about management groups:
+- A single directory supports up to 10,000 management groups.
+- Each management group and subscription can have only one parent.
+
